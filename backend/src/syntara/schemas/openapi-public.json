@@ -52520,8 +52520,7 @@
                 "type": "null"
               }
             ],
-            "title": "Group Id",
-            "default": null
+            "title": "Group Id"
           },
           "input_schema": {
             "anyOf": [
